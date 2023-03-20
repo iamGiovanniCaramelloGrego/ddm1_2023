@@ -1,0 +1,13 @@
+DarkKhaki	#BDB76B	
+Goldenrod	#DAA520	
+DarkGoldenrod	#B8860B	
+SaddleBrown	#8B4513	
+Sienna		#A0522D	
+RosyBrown	#BC8F8F	
+Peru		#CD853F	
+Chocolate	#D2691E	
+SandyBrown	#F4A460
+NavajoWhite	#FFDEAD	
+Wheat		#F5DEB3	
+BurlyWood	#DEB887	
+Tan		#D2B48C	
